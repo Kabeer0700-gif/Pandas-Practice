@@ -86,3 +86,28 @@ cd Pandas-Practice
 # Launch Jupyter Notebook
 jupyter notebook
 ```
+
+Open any `.ipynb` file from the Jupyter interface in your browser to get started.
+
+---
+
+## 📌 Topics Covered
+
+- Pandas DataFrames & Series
+- Data Cleaning & Preprocessing
+- Filtering, Sorting & Grouping
+- Feature Extraction & Engineering
+- Descriptive Statistics
+- Data Visualization with Matplotlib/Seaborn
+
+---
+
+## 👤 Author
+
+**Kabeer** — [@Kabeer0700-gif](https://github.com/Kabeer0700-gif)
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
